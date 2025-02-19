@@ -23,7 +23,7 @@ A tool for rescuing recently deleted Weibo images using CDN cache.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weibo-pic-plumber.git
+git clone https://github.com/szymczykx/weibo-pic-plumber.git
 cd weibo-pic-plumber
 ```
 
